@@ -10,6 +10,10 @@ ros2_test
 
     git clone https://github.com/numahha/ros2_test.git
 
+リンクメモ
+---------
+
+* `ROS 2の基本 <https://gbiggs.github.io/rosjp_ros2_intro/ros2_basics.html>`_
 
 インストール
 -----------
