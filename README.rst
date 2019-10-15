@@ -22,7 +22,7 @@ ros2_test
 
 インストール
 -----------
-* git
-* `公式バイナリインストール <https://index.ros.org/doc/ros2/Installation/Linux-Development-Setup/>`_
-* gazebo9 by apt-get install 
+* `公式インストール <https://index.ros.org/doc/ros2/Installation/Linux-Development-Setup/>`_
+* colcon sudo apt install python3-colcon-common-extensions
 * `Gazebo-ros_pkgs (ROS2) <http://gazebosim.org/tutorials?tut=ros2_installing&cat=connect_ros>`_
+* rqt install sudo apt install ros-$ROS_DISTRO-rqt*
