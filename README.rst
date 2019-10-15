@@ -25,11 +25,13 @@ ros2_test
 Tutorials memo (RViz)
 ---------------------
 Terminal 1
+
 .. code:: shell
 
     ros2 launch dummy_robot_bringup dummy_robot_bringup.launch.py
 
 Terminal 2
+
 .. code:: shell
 
     rviz2
