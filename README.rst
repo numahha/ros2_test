@@ -20,6 +20,28 @@ ros2_test
 
 * `ROS 2の基本 <https://gbiggs.github.io/rosjp_ros2_intro/ros2_basics.html>`_
 
+
+
+Tutorials memo (RViz)
+---------------------
+Terminal 1
+.. code:: shell
+
+    ros2 launch dummy_robot_bringup dummy_robot_bringup.launch.py
+
+Terminal 2
+.. code:: shell
+
+    rviz2
+
+In RViz
+
+* Fixed Frame: "map" -> "world"
+* Add "TF"
+
+`Ref <https://index.ros.org//doc/ros2/Tutorials/dummy-robot-demo//>`_
+
+
 インストール
 -----------
 * `公式インストール <https://index.ros.org/doc/ros2/Installation/Linux-Development-Setup/>`_
