@@ -45,6 +45,17 @@ In RViz
 
 `Ref: URDF without ROS <http://answers.gazebosim.org/question/17976/how-does-gazebo-load-a-urdf-file-without-ros/>`_
 
+joint_state_publisher test
+--------------------------
+
+.. code:: shell
+
+    cd ~
+    git clone -b ros2-devel https://github.com/rjshim/joint_state_publisher.git
+    cd joint_state_publisher
+    colcon build
+    . install/local_setup.bash
+
 インストール
 -----------
 * `公式インストール <https://index.ros.org/doc/ros2/Installation/Dashing/Linux-Install-Debians/>`_
