@@ -41,8 +41,9 @@ In RViz
 * Fixed Frame: "map" -> "world"
 * Add "TF"
 
-`Ref <https://index.ros.org//doc/ros2/Tutorials/dummy-robot-demo//>`_
+`Ref: RViz2 <https://index.ros.org//doc/ros2/Tutorials/dummy-robot-demo//>`_
 
+`Ref: URDF without ROS <http://answers.gazebosim.org/question/17976/how-does-gazebo-load-a-urdf-file-without-ros/>`_
 
 インストール
 -----------
