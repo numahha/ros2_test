@@ -46,7 +46,7 @@ In RViz
 
 インストール
 -----------
-* `公式インストール <https://index.ros.org/doc/ros2/Installation/Linux-Development-Setup/>`_
+* `公式インストール <https://index.ros.org/doc/ros2/Installation/Dashing/Linux-Install-Debians/>`_
 * colcon sudo apt install python3-colcon-common-extensions
 * `Gazebo-ros_pkgs (ROS2) <http://gazebosim.org/tutorials?tut=ros2_installing&cat=connect_ros>`_
 * rqt install sudo apt install ros-$ROS_DISTRO-rqt*
