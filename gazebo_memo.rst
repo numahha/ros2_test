@@ -9,3 +9,4 @@ double_pendulum_with_baseとかは、~/.gazebo/modelsの中にある。
 
 * sdf for gazeboとurdf for ros2を作って、同時に動作させる。
 * gazebo_ros_diff_drive_demoが、ros2 topicから制御入力をgazeboに送るやつになっているので、これを勉強する。
+* https://github.com/ros-simulation/gazebo_ros_pkgs/wiki/ROS-2-Migration:-Body-Wrench-and-Joint-Effort も勉強する．
